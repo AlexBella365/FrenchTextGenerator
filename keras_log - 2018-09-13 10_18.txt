@@ -1,0 +1,3 @@
+Epoch 000 | Train_loss 3.058 | Val_loss 3.119 | Train_acc 0.194 | Val_acc 0.171
+Epoch 001 | Train_loss 3.032 | Val_loss 3.123 | Train_acc 0.194 | Val_acc 0.171
+Epoch 002 | Train_loss 3.012 | Val_loss 3.127 | Train_acc 0.194 | Val_acc 0.171
