@@ -1,0 +1,10 @@
+Epoch 001 | Train_loss 1.474 | Val_loss 2.597 | Train_acc 0.547 | Val_acc 0.375
+Epoch 002 | Train_loss 1.377 | Val_loss 2.643 | Train_acc 0.576 | Val_acc 0.344
+Epoch 003 | Train_loss 1.334 | Val_loss 2.737 | Train_acc 0.601 | Val_acc 0.309
+Epoch 004 | Train_loss 1.278 | Val_loss 2.708 | Train_acc 0.598 | Val_acc 0.371
+Epoch 005 | Train_loss 1.207 | Val_loss 2.749 | Train_acc 0.640 | Val_acc 0.340
+Epoch 006 | Train_loss 1.175 | Val_loss 2.728 | Train_acc 0.634 | Val_acc 0.367
+Epoch 007 | Train_loss 1.083 | Val_loss 2.813 | Train_acc 0.684 | Val_acc 0.309
+Epoch 008 | Train_loss 1.031 | Val_loss 2.896 | Train_acc 0.684 | Val_acc 0.344
+Epoch 009 | Train_loss 0.977 | Val_loss 2.965 | Train_acc 0.701 | Val_acc 0.301
+Epoch 010 | Train_loss 0.913 | Val_loss 2.994 | Train_acc 0.720 | Val_acc 0.316
